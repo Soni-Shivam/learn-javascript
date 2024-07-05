@@ -1,0 +1,1 @@
+javascript: var speed = prompt("Hello Bhai! Kitni speed chaiye?", "1");document.querySelector(%27video%27).playbackRate = speed,void(0);
